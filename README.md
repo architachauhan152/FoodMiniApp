@@ -4,14 +4,14 @@ An application to search for any food item with its name and ingredient. It also
 
 1. Landing page with serach bar to find food item by its name or keyworsd:
 
-![f](https://user-images.githubusercontent.com/93419962/153702476-5cf00cb3-9553-4cff-b170-ea5edc5251f6.PNG)
+![f](https://user-images.githubusercontent.com/93373957/165770829-d9cd4220-b1ed-4e82-a15c-fe64e116fea0.png)
 
 
 2. Page with food item match to search keyword:
 
-![food](![image](https://user-images.githubusercontent.com/93373957/165769721-e3d9cc52-d79a-46d6-bbb5-fcc0ba63d46e.png)))
+![food](https://user-images.githubusercontent.com/93373957/165771309-6c8dd0b7-8d34-4d1e-bdc4-bdae330e5862.png)
 
 
 3. Page with recipe of the search item:
 
-![r](![image](https://user-images.githubusercontent.com/93373957/165769981-b569182a-2cdf-4a70-a73d-5b3ca32a3695.png))
+![r](https://user-images.githubusercontent.com/93373957/165772111-c98bd1c2-4df5-4bbf-8492-7150805ce6dc.png)
